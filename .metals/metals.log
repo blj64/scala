@@ -1,0 +1,19 @@
+2024.11.28 09:19:07 INFO  Started: Metals version 1.4.1 in folders '/home/cytech/scala/tparendre/tp-actors-cytech' for client Visual Studio Code 1.95.1.
+2024.11.28 09:19:07 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.28 09:19:08 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:11 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 28, 2024 9:19:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.11.28 09:19:11 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:11 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:16 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:16 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomListActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:16 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomListActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:18 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomListActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:24 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/RoomListActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:24 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/routes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:24 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/routes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:19:24 INFO  no build target found for /home/cytech/scala/tparendre/tp-actors-cytech/src/main/scala/routes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 09:44:45 INFO  Shutting down server
+2024.11.28 09:44:45 INFO  shutting down Metals
+2024.11.28 09:44:45 INFO  Exiting server
